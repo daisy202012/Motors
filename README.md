@@ -1,4 +1,4 @@
-# Motor & Motorshield Project
+# Motor & Motor shield Project
 
 The program will control motor 1 and motor 2. Motor 1 has pin 0 to enable and pins 2 and 3 to control. Motor 2 has pin 6 to enable and pins 4 and 5 to control. The program will use both motors to move forward, move backward, and stop. The motors will have speed control.
 
